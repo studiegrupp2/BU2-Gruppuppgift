@@ -1,0 +1,6 @@
+[submodule "Gruppuppgift-BU2"]
+	path = Gruppuppgift-BU2
+	url = https://github.com/studiegrupp2/Gruppuppgift-BU2.git
+[submodule "Gruppuppgift-BU2-testing"]
+	path = Gruppuppgift-BU2-testing
+	url = https://github.com/studiegrupp2/Gruppuppgift-BU2-testing.git
