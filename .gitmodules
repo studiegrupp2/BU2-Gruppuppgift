@@ -4,3 +4,6 @@
 [submodule "Gruppuppgift-BU2-testing"]
 	path = Gruppuppgift-BU2-testing
 	url = https://github.com/studiegrupp2/Gruppuppgift-BU2-testing.git
+[submodule "Gruppuppgift-BU2-Frontend"]
+	path = Gruppuppgift-BU2-Frontend
+	url = https://github.com/studiegrupp2/Gruppuppgift-BU2-Frontend.git
